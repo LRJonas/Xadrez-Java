@@ -20,4 +20,8 @@ public class ChessMatch {
         }
         return mat;
     }
+
+    private void initialSetup(){
+
+    }
 }
